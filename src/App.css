@@ -1,0 +1,33 @@
+/* *{
+  text-align: center;
+  margin: 10px;
+} */
+
+.navbar {
+  background-color: black;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  padding: 35px;
+}
+
+.navbar p {
+  margin-right: 100px;
+}
+
+.movieLists {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 25px;
+}
+
+.movie {
+  margin: 10px 0px;
+  
+}
+
+.form {
+  text-align: center;
+}
